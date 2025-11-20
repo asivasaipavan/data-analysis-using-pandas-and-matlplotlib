@@ -1,5 +1,4 @@
 # data-analysis-using-pandas-and-matlplotlib
-# Sales Data Analysis – Python + Pandas
 
 This project is part of my Python Internship.  
 The task is to perform **data analysis** on a CSV file using:
